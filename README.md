@@ -1,28 +1,35 @@
-# OpenMMU: Open Source Memory Management Unit for 3D Printers
+# OpenMMS: Open Source Multi Material System for 3D Printers
 
 ## Overview
 
-Welcome to OpenMMU, an open-source Memory Management Unit (MMU) designed specifically for 3D printers. This project aims to provide a flexible and extensible MMU solution, allowing 3D printer enthusiasts and developers to enhance their printing experience.
+Welcome to OpenMMS, an open-source Multi Material System designed to enhance the capabilities of 3D printers. OpenMMS enables the seamless printing of multi-material objects, opening up new possibilities for creativity and functionality in your 3D printing projects.
 
+## Features
 
-# Features
+- **Multi-Material Printing:** OpenMMS allows 3D printers to handle multiple materials during a single print job, enabling the creation of intricate and colorful designs.
+  
+- **Configurability:** The system is highly configurable, accommodating a variety of multi-material setups and printer configurations.
+  
+- **Compatibility:** OpenMMS is designed to work with a wide range of 3D printers, providing flexibility for users with different hardware setups.
+  
+- **Open Source:** OpenMMS is released under an open-source license, fostering collaboration and community-driven development.
+  
+- **User-Friendly:** The project includes comprehensive documentation to guide users through the installation, configuration, and usage of OpenMMS.
 
-- Modularity: OpenMMU is designed with a modular architecture, making it easy to adapt to various 3D printer setups and configurations.
+## Documentation
 
-- Compatibility: The MMU is compatible with a wide range of 3D printers, enabling users to upgrade their existing setups with minimal effort.
+For detailed instructions, configuration guidelines, and troubleshooting tips, refer to the Documentation included with the project.
 
-- Open Source: OpenMMU is released under an open-source license, encouraging collaboration and community-driven development.
+## Contributing
 
-- User-Friendly: The project includes detailed documentation to help users understand the installation process and configuration options.
-
-# Contributing
 We welcome contributions from the community! If you have ideas, bug reports, or want to contribute code, please check out our Contribution Guidelines.
 
 ## License
-OpenMMU is licensed under the MIT License, making it free for personal and commercial use.
+
+OpenMMS is licensed under an open-source license, allowing both personal and commercial use.
 
 ## Support
-If you encounter any issues or have questions, feel free to open an issue on the GitHub repository. We value your feedback and are here to help!
 
-## 
-Happy 3D printing with OpenMMU! 🚀
+If you encounter any issues or have questions, feel free to open an issue on the project's repository. Your feedback is valuable, and we are here to assist you!
+
+Enjoy exploring the world of multi-material 3D printing with OpenMMS! 🌈🚀
